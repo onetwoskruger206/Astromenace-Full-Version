@@ -233,3 +233,6 @@ This repository serves as the official landing page for AstroMenace. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AstroMenace today!**
+
+---
+**Last updated:** 2026-09-08 08:37:38 UTC
