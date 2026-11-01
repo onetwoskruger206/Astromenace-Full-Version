@@ -235,4 +235,4 @@ This repository serves as the official landing page for AstroMenace. The softwar
 **Get the most recent version of AstroMenace today!**
 
 ---
-**Last updated:** 2026-10-31 22:12:43 UTC
+**Last updated:** 2026-11-01 01:52:11 UTC
